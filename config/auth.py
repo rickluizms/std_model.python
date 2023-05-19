@@ -3,8 +3,8 @@ class Auth():
     senha = ""
 
 
-class define_me1(Auth):
+class Define_me1(Auth):
     pass
 
-class define_me2(Auth):
+class Define_me2(Auth):
     pass
