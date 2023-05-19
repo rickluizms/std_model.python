@@ -2,6 +2,7 @@ class Auth():
     login = ""
     senha = ""
 
+
 class define_me1(Auth):
     pass
 
