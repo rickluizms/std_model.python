@@ -5,5 +5,6 @@ class Controller():
     def __init__(self) -> None:
         pass
 
-    def app():
-        return
+    def app(x, y):
+        z = x+y
+        return z

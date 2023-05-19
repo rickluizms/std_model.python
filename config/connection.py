@@ -9,4 +9,4 @@ mydb = {
     'raise_on_warnings': True
 }
 
-connection = mysql.connector.connect(**mydb)
+#connection = mysql.connector.connect(**mydb)
